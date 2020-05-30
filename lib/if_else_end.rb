@@ -1,5 +1,5 @@
 # Write your solution here
-puts Time.now
+puts Time.now.to_i
 
 
 
